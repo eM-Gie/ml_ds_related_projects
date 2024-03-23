@@ -1,1 +1,20 @@
-This was a course I took in fall 2023 (masters level). I found it demandin, but I feel I've learned a lot from it. 
+Treści modułu kształcenia (z podziałem na formy realizacji zajęć) Pierwsza część
+wykładu obejmować będzie zapoznanie z językiem według następującego planu:
+1. Podstawy języka, Pakiety, moduły i biblioteka standardowa
+2. Model obiektowy i wyjątki
+3. Kolekcje, listy/słowniki/zbiory składane, iteratory i generatory
+4. Pliki i strumienie
+5. Testowanie i analiza kodu, dekoratory, adnotacje
+6. Wątki i procesy
+W dalszej części zostaną omówione następujące biblioteki:
+1. Pillow, scikit-image – manipulacja obrazami
+2. Numpy, Scipy – obliczenia numeryczne
+3. Matplotlib, PyGoogleChart – tworzenie wykresów
+4. Scikit-learn – metody uczenia maszynowego
+5. Pandas, h5py – obsługa dużych plików
+Przedmiot będzie zrealizowany głównie pod kątem wykorzystania najnowszego
+standardu języka Python 3.6.
+Wykłady będą poświęcone omówieniu teorii wymienionych wyżej tematów. W
+ramach laboratoriów studenci wykorzystają tą wiedzę do rozwiązania wybranych
+problemów praktycznych oraz implementacji w efektywny sposób poznanych
+algorytmów.
