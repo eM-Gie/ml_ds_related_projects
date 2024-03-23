@@ -1,1 +1,0 @@
-This was a course I took in 2023, covering the basics of ML (regression models, clasification problems, neural networks)

@@ -1,0 +1,15 @@
+Celem zajęć jest zapoznanie studentów z klasycznymi koncepcjami zastosowania
+sieci neuronowych w problematyce sztucznej inteligencji oraz uczeniu
+maszynowym. W czasie zajęć omówione zostaną przykłady zastosowań
+praktycznych ze wskazaniem zalet i ograniczeń.
+1. Wprowadzenie do sieci neuronowych
+2. Perceptron i perceptron wielowarstwowy (ang. Multilayer Perceptron),
+3. Uczenie sieci neuronowej, ewaluacja modelu: postać funkcji kosztu dla
+problemów regresji i klasyfikacji,,
+4. Implementacja sieci neuronowej w pythonie
+5. Inicjalizacja parametrów sieci neuronowej i Batch Normalization,
+6. Optymalizacja: (SGD, Momentum, RMSProp, Adam), Regularyzacja: (L1 i L2,
+Dropout)
+7. Konwolucyjne sieci neuronowe
+8. Rekurencyjne sieci neuronowe
+9. Modelel generatywne
