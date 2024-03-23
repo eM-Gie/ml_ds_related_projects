@@ -1,0 +1,2 @@
+Regresja liniowa i logistyczna, uczenie z nadzoremi bez nadzoru, SVM: teoria i
+praktyka, teoretyczne podstawy sieci neuronowych, klastrowanie
